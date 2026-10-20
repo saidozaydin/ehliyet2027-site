@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saidozaydin.github.io/ehliyet2027-site/sitemap.xml
